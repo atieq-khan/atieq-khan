@@ -1,9 +1,9 @@
 # Atieq - Ur - Rehman
 
-- **Mobile:** 0304-8548001
-- **Email:** atieqkhan12@gmail.com
-- **Residence:** Islam-Pura, street # 2, Jaranwala
-- **Date of Birth:** November 14, 2000
+- **Mobile:** 📱 0304-8548001
+- **Email:** 📧 atieqkhan12@gmail.com
+- **Residence:** 🏠 Islam-Pura, street # 2, Jaranwala
+- **Date of Birth:** 🎂 November 14, 2000
 
 ## Education
 
@@ -43,6 +43,7 @@ Managed machinery control panels, handled load management, and learned diverse e
 **3-months Course**
 
 Focused on low-level programming, FreeRTOS task handling, cloud communication, Linux, and PCB designing, enhancing technical skills significantly.
+
 ## Projects
 
 ### Bad USB using STM32F4 aka Rubber ducky (In development)
@@ -61,9 +62,7 @@ Developed home automation using Arduino microcontroller and Google Firebase for 
 
 Designed during my 6th semester, this project involves speed control of DC motor.
 
-
 ## Additional Information
 
 - **LinkedIn:** [Atieq-Ur-Rehman](https://www.linkedin.com/in/atieq-ur-rehman)
 - **GitHub:** [Atieq-khan](https://github.com/atieq-khan)
-
