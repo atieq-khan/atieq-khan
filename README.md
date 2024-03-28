@@ -11,6 +11,14 @@
 - B.Sc. Electrical Engineering, University of Engineering and Technology (UET), Lahore
 - Relevant Courses: Introduction to Python, Programming Fundamentals (C language), Data Structures and Algorithms, Microprocessors, Control systems, Electrical Circuits Design and Analysis, Digital logic Design, Computer Networking, Computer Architecture (RISC-V) and Introduction to Machine learning
 
+## Skills
+
+- Proficient in C, Python, and RISC-V assembly language
+- Experienced in Linux system commands and scripting
+- Strong understanding of microcontrollers, sensors, and communication protocols
+- Familiar with cloud communication platforms like Google Firebase
+- Proficient in using version control systems like Git
+
 ## Experience
 
 ### Knowledge Stream (Feb 2024 – Present)
@@ -51,4 +59,11 @@ Developed home automation using Arduino microcontroller and Google Firebase for 
 
 ### Speed Control of DC Motor Using Arduino IDE (STM32F4)
 
-Designed during my 6th semester, this project involves speed control of DC motor
+Designed during my 6th semester, this project involves speed control of DC motor.
+
+
+## Additional Information
+
+- **LinkedIn:** [Atieq-Ur-Rehman](https://www.linkedin.com/in/atieq-ur-rehman)
+- **GitHub:** [Atieq-khan](https://github.com/atieq-khan)
+
