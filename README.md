@@ -1,4 +1,6 @@
-# Atieq - Ur - Rehman
+<div align="center">
+  <h1>Atieq - Ur - Rehman</h1>
+</div>
 
 - **Mobile:** 📱 0304-8548001
 - **Email:** 📧 atieqkhan12@gmail.com
