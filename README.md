@@ -23,7 +23,7 @@
 
 ## Experience
 
-### Knowledge Stream (Feb 2024 – Present)
+### Knowledge Stream (Feb 2024 – May 2014)
 **Training (For 10x Engineers)**
 
 Undergoing intensive training for 10x Engineers at Knowledge Stream. Highlights:
@@ -48,7 +48,7 @@ Focused on low-level programming, FreeRTOS task handling, cloud communication, L
 
 ## Projects
 
-### Bad USB using STM32F4 aka Rubber ducky (In development)
+### Bad USB using Tiva C series aka Rubber ducky (In development)
 
 Self-open-source project aiming to use stm32F4 OTG and SD card to store the ducky script.
 
